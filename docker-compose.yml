@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  employeecrud:
+    image: ${DOCKER_REGISTRY-}employeecrud
+    build:
+      context: .
+      dockerfile: EmployeeCRUD\Dockerfile
