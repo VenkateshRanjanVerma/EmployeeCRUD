@@ -3604,11 +3604,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\venka\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj",
+      "projectUniqueName": "C:\\Users\\venka\\OneDrive\\Documents\\appDA\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj",
       "projectName": "EmployeeCRUD",
-      "projectPath": "C:\\Users\\venka\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj",
+      "projectPath": "C:\\Users\\venka\\OneDrive\\Documents\\appDA\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj",
       "packagesPath": "C:\\Users\\venka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\venka\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\obj\\",
+      "outputPath": "C:\\Users\\venka\\OneDrive\\Documents\\appDA\\EmployeeCRUD\\EmployeeCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
